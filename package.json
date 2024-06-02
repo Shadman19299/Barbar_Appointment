@@ -1,0 +1,22 @@
+{
+  "name": "barbar_appointment",
+  "version": "1.0.0",
+  "description": "Create Automated Appointment for Barbars",
+  "main": "sw.js",
+  "scripts": {
+    "test": "print (\"Its done successfully\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadman19299/Barbar_Appointment.git"
+  },
+  "author": "Shadman Rabbi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Shadman19299/Barbar_Appointment/issues"
+  },
+  "homepage": "https://github.com/Shadman19299/Barbar_Appointment#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
